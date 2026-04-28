@@ -10,6 +10,6 @@
 
 ## 설치 및 실행
 ```
-1. `PocketGuard.exe` 실행
-2. `customtkinter`, `matplotlib` 라이브러리 필요 (소스 실행 시)
+1. `ocketGuard.exe 실행
+2. customtkinter, matplotlib 라이브러리 필요 (소스 실행 시)
 ```
